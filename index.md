@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Continuity Capital Partners'
+description: 'Our goal is to help business owners achieve liquidity and lead businesses to bright and successful futures. We possess a unique skill set of leadership, technology, and operations.  We structure transactions to meet owners’ needs to maximize cash at close, minimize taxes, provide continued income, or provide opportunities to participate in upside from continued growth.'
 image: null
 author: null
 show_tile: false
