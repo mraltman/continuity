@@ -3,8 +3,8 @@ title: CCP
 subtitle:
 email: maltman333@gmail.com
 description: Our goal is to help business owners achieve liquidity and lead businesses to bright and successful futures. 
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+url: continuitycapitalpartners.com # the base hostname & protocol for your site
 author:
 street_address: 
 city: New York
