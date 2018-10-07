@@ -1,21 +1,21 @@
 # site settings
 title: CCP
 subtitle:
-email: youremailaddress@gmail.com
+email: maltman333@gmail.com
 description: Our goal is to help business owners achieve liquidity and lead businesses to bright and successful futures. 
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 
-city: 
-state: 
+city: New York
+state: New York
 zip_code: 
 country: 
 phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 3
+tiles-count: 7
 
 # social settings
 500px_url:
