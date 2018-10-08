@@ -92,7 +92,7 @@
 
 			&:hover {
 				&:before {
-					opacity: 0;
+					// opacity: 0;
 				}
 			}
 
@@ -102,13 +102,13 @@
 				opacity: 0;
 			}
 
-			&:nth-child(1) {
-				width: 100%
-			}
+			// &:nth-child(1) {
+			// 	width: 100%
+			// }
 
 			// Adding a +1 because first child is now maxed.
-			&:nth-child(4n - 0),
-			&:nth-child(4n - 1) {
+			&:nth-child(4n - 1),
+			&:nth-child(4n - 2) {
 				flex: 1 auto;
 			}
 			// &:nth-child(2n - 1) {
